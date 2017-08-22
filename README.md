@@ -1,5 +1,5 @@
 # react-music-player
-react + webpack 写的一个小demo
+react + webpack 写的一个小demo，大概是一个音乐播放器吧
 
 ### 使用方法
     1.git clone https://github.com/zt14362/react-music-player.git 
