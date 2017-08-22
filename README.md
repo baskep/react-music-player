@@ -11,4 +11,4 @@ react + webpack 写的一个小demo，大概是一个音乐播放器吧
     2.http://localhost:3333/list 音乐列表
  
 ### 示例图片
-    ![image](http://github.com/zt14362/react-music-player/raw/master/example/index.png) 
+![image](http://github.com/zt14362/react-music-player/raw/master/example/index.png) 
