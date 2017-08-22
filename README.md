@@ -9,3 +9,6 @@ react + webpack 写的一个小demo，大概是一个音乐播放器吧
 ### 路径说明
     1.http://localhost:3333/ 播放音乐
     2.http://localhost:3333/list 音乐列表
+ 
+### 示例图片
+    ![image](https://github.com/react-music-player/example/index.png)
